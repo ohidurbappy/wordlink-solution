@@ -1,6 +1,6 @@
 # wordlink-solution
 
-<p>Python scripts that solves wordlink game</p>
+<p>Python scripts that solves <a href="https://play.google.com/store/apps/details?id=com.word.puzzle.game.connect&hl=en">wordlink</a> game</p>
 
 ## Requirements
 
